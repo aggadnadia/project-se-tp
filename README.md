@@ -1,6 +1,4 @@
-# project-se-tp  
-" Ce projet a été réalisé en collaboration avec ZIOUI Lounes  "
-Ce qui concerne les questions voici les réponse :
+# project-se-tp
 
 On veut effectuer en parallèle(En utilisant le modèle producteurs/consommateur) le produit de deux matrices: 
 B (n1* m1)  et C (n2 * m2) ⇒ la matrice résultante A=B*C ;
