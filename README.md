@@ -1,5 +1,5 @@
 # project-se-tp
-/* ce travail et rialiser par aggad nadia ,aoudia nawal et merabeti soria */
+/* ce travail et réaliser par aggad nadia ,aoudia nawal et merabeti soria */
 
 On veut effectuer en parallèle(En utilisant le modèle producteurs/consommateur) le produit de deux matrices: 
 B (n1* m1)  et C (n2 * m2) ⇒ la matriceltante A=B*C ;
