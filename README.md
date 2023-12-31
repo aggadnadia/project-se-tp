@@ -1,5 +1,6 @@
 # project-se-tp
 /* ce travail et rialiser par aggad nadia et aoudia nawal */
+
 On veut effectuer en parallèle(En utilisant le modèle producteurs/consommateur) le produit de deux matrices: 
 B (n1* m1)  et C (n2 * m2) ⇒ la matriceltante A=B*C ;
 Q1: Quelles sont les structures de données à utiliser ?
